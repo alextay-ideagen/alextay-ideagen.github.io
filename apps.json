@@ -1,109 +1,115 @@
 {
+  "name": "Alex YTLite Source",
+  "identifier": "com.alexytlite.source",
+  "website": "https://github.com/alextay-ideagen/YTLite",
+  "sourceURL": "https://raw.githubusercontent.com/alextay-ideagen/alextay-ideagen.github.io/main/apps.json",
+  "subtitle": "Alex YTLitePlus Altstore source.",
+  "description": "This is Alex's Altstore source for YTLitePlus.\n\nYTLitePlus is an enhanced Youtube app that offers a superior Youtube experience, combining YTLite (by @dayanch96) with numerous other tweaks.\n\nFor full details on what's included, check the GitHub repository:\n\nhttps://github.com/alextay-ideagen/YTLite",
+  "tintColor": "e22a41",
+  "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
+  "headerURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/screenshots/header/altstore_header.png",
   "apps": [
     {
       "beta": false,
+      "name": "YTLitePlus",
       "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "alextay & Various Contributors",
-      "META": { "repoName": "uYouEnhanced Source" },
-      "contact": {
-          "web": "https://github.com/alextay-ideagen/uYouPlus"
-      },
-      "downloadURL": "https://github.com/SavageFRVR/YTLite/releases/download/v20.02.3-5.1/v20.02.3-YouTubePlus_5.1_Tweaks.ipa",
-      "iconURL": "https://raw.githubusercontent.com/arichornlover/uYouEnhanced/1314354bff6ef07aca60d7b9a77bd91a5f985ab4/Localizations/uYouPlus.bundle/AppIcons/AppIcon4.png",
-      "localizedDescription": "uYou is the best tweak for the YouTube app.\n \n uYouEnhanced is a modified version of qnblackcat's uYouPlus & MiRO92's uYou with even more features.\n \n Additional features:\n • Skip sponsorships in videos (iSponsorBlock)\n • Even more PiP options (YouPiP)\n • Unlock 1440p and 2160p resolutions (YTUHD)\n • Disable overlay at the end of videos (YTNoHoverCards)\n • Remove YouTube Premium upsell alerts (NoYTPremium)\n • Enable to Dim the YouTube UI (LowContrastMode)\n • Enable the miniplayer for all videos (YTMiniplayerEnabler)\n • Prevent the notch/Dynamic Island from cutting into 2:1 videos (DontEatMyContent)\n • Configure A/B settings in the YouTube app (YTABConfig)\n • Adds a new button in the Video Player that allows you to copy a url with the ?t=timestamp (YouTimeStamp)\n • And more\n \n More information: \n https://github.com/alextay-ideagen/uYouPlus \n \n Requires iOS/iPadOS 15.0 or later.\n \n Contributors: qnblackcat, PoomSmart, level3tjg, BandarHelal, galactic, julioverne, Foxster, CokePokes, bhackel and many others. \n\n Credits: MiRO92, HASHBANG, galactic, Lyvendia, ichitaso, Ahmed Bafkir, Tommy Teo, Dayanch96, theos, dodieboy, balackburn and many others.",
-      "name": "uYouEnhanced",
+      "developerName": "alextay",
+      "subtitle": "YTLite with more features!",
+      "version": "20.15.1",
+      "versionDate": "2025-04-25",
+      "versionDescription": "• Updated YouTube to v20.15.1\n • YTLitePlus is using 5.0.1\n • iOS/iPadOS 15.0 or later required\n\nFeatures included:\n • YTLite core features\n • YTUHD for higher resolutions\n • YouPiP for Picture-in-Picture\n • YTABConfig for A/B settings\n • YouMute for audio control\n • DontEatMyContent for notch/Dynamic Island\n • Return YouTube Dislikes\n • iSponsorBlock for skipping sponsors\n • YouRememberCaption for captions\n • YTNoTracking for privacy\n • YTUnShorts for better Shorts experience\n • YTNoCheckLocalNetwork\n • BigYTMiniPlayer\n • YTSpeed and YTHoldForSpeed\n • YTVideoOverlay\n • YouQuality for quality control\n • YTNoModernUI\n • OLEDDarkmode and OLDDarkmode\n • LowContrastMode\n • YTNoSuggestedVideo\n\nCredits to all contributors and developers",
+      "downloadURL": "https://github.com/alextay-ideagen/YTLite/releases/download/untagged-31685729bf85db5c5f49/YouTubePlus_5.2b1.ipa",
+      "localizedDescription": "YTLite with more features!\n\nYTLitePlus is an enhanced Youtube app that offers a superior Youtube experience, combining YTLite (by @dayanch96) with numerous other tweaks :\n\n\u2022 YTLite\n\u2022 YTUHD\n\u2022 YouPiP\n\u2022 YTABConfig\n\u2022 YouMute\n\u2022 DontEatMyContent\n\u2022 Return YouTube Dislikes\n\u2022 iSponsorBlock\n\u2022 YouRememberCaption\n\u2022 YTNoTracking\n\u2022 YTUnShorts\n\u2022 YTNoCheckLocalNetwork\n\u2022 BigYTMiniPlayer\n\u2022 YTSpeed\n\u2022 YTHoldForSpeed\n\u2022 YTVideoOverlay\n\u2022 YouQuality\n\u2022 YTNoModernUI\n\u2022 OLEDDarkmode\n\u2022 OLDDarkmode\n\u2022 LowContrastMode\n\u2022 YTNoSuggestedVideo\n\nCredit\n\n@Balackburn, @bhackel, @Deci8BelioS, @matt911, @arichornloverALT, @Macleykun, @AlexInABox, @SKEIDs, @VictorxD70, @Glenta, @zSaaiq, @MrAlucardDante, @gototheskinny, @asdfzxcvbn, @dayanch96, @ssuesskind, @MiRO92, @qnblackcat, @PoomSmart, @level3tjg, @BandarHL, @Galactic-Dev, @julioverne, @hbang, @Lyvendia, @therealFoxster, @ichitaso, @AhmedBafkir, @CokePokes, @ISnackable",
+      "iconURL": "https://github.com/dayanch96/YTLite/blob/main/Resources/icon.png",
+      "tintColor": "e81e8a",
+      "category": "social",
+      "size": 114294784,
       "screenshotURLs": [
-        "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus1.jpeg?raw=true",
-        "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus2.jpeg?raw=true",
-        "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus3.jpeg?raw=true",
-        "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus4.jpeg?raw=true",
-        "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus5.jpeg?raw=true",
-        "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus6.jpeg?raw=true"
+        "https://github.com/dayanch96/YTLite/raw/main/Resources/scr1.jpg?raw=true",
+        "https://github.com/dayanch96/YTLite/raw/main/Resources/scr2.jpg?raw=true",
+        "https://github.com/dayanch96/YTLite/raw/main/Resources/scr3.jpg?raw=true",
+        "https://github.com/dayanch96/YTLite/raw/main/Resources/scr4.jpg?raw=true",
+        "https://github.com/dayanch96/YTLite/raw/main/Resources/scr5.jpg?raw=true",
+        "https://github.com/dayanch96/YTLite/raw/main/Resources/scr6.jpg?raw=true",
+        "https://github.com/dayanch96/YTLite/raw/main/Resources/scr7.jpg?raw=true",
+        "https://github.com/dayanch96/YTLite/raw/main/Resources/scr8.jpg?raw=true",
+        "https://github.com/dayanch96/YTLite/raw/main/Resources/scr9.jpg?raw=true"
       ],
-      "size": 125035106,
       "minOSVersion": "15.0",
+      "META": { "repoName": "alextay YTLite Source" },
+      "contact": {
+        "web": "https://github.com/alextay-ideagen/YTLite"
+      },
       "appPermissions": {
         "entitlements": [
-            {
-              "name": "com.apple.security.application-groups"
-            },
-            {
-              "name": "com.apple.developer.associated-domains"
-            },
-            {
-              "name": "com.apple.developer.coremedia.allow-alternate-video-decoder-selection"
-            },
-            {
-              "name": "com.apple.developer.usernotifications.time-sensitive"
-            },
-            {
-              "name": "get-task-allow"
-            },
-            {
-              "name": "com.apple.developer.device-information.user-assigned-device-name"
-            },
-            {
-              "name": "com.apple.developer.group-session"
-            },
-            {
-              "name": "keychain-access-groups"
-            },
-            {
-              "name": "com.apple.developer.networking.multicast"
-            },
-            {
-              "name": "aps-environment"
-            },
-            {
-              "name": "com.apple.developer.networking.wifi-info"
-            }
-          ],
-          "privacy": [
-            {
-              "name": "AppleMusic",
-              "usageDescription": "This lets you add your own audio files to your videos."
-            },
-            {
-              "name": "BluetoothPeripheral",
-              "usageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices."
-            },
-            {
-              "name": "Camera",
-              "usageDescription": "This lets you create videos using the app."
-            },
-            {
-              "name": "Contacts",
-              "usageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with."
-            },
-            {
-              "name": "LocalNetwork",
-              "usageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV."
-            },
-            {
-              "name": "LocationWhenInUse",
-              "usageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads."
-            },
-            {
-              "name": "Microphone",
-              "usageDescription": "This lets you include audio with your videos and search using your voice."
-            },
-            {
-              "name": "PhotoLibrary",
-              "usageDescription": "This lets you upload media you've already created."
-            }
-          ]
+          "com.apple.security.application-groups",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "get-task-allow",
+          "com.apple.developer.device-information.user-assigned-device-name",
+          "com.apple.developer.group-session",
+          "keychain-access-groups",
+          "com.apple.developer.networking.multicast",
+          "aps-environment",
+          "com.apple.developer.networking.wifi-info",
+          "com.apple.developer.siri"
+        ],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "YTLitePlus requires access to your Apple Music library.",
+          "NSBluetoothPeripheralUsageDescription": "YTLitePlus requires Bluetooth access to connect with nearby peripherals.",
+          "NSCameraUsageDescription": "YTLitePlus requires access to the camera to capture photos and videos.",
+          "NSContactsUsageDescription": "YTLitePlus requires access to your contacts to help you share content with your friends.",
+          "NSLocalNetworkUsageDescription": "YTLitePlus requires local network access to connect and communicate with nearby devices.",
+          "NSLocationWhenInUseUsageDescription": "YTLitePlus requires access to your location while using the app to provide personalized recommendations.",
+          "NSMicrophoneUsageDescription": "YTLitePlus requires access to your microphone to record audio.",
+          "NSPhotoLibraryUsageDescription": "YTLitePlus requires access to your Photo Library to save photos and videos.",
+          "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YTLitePlus will link activity from this app with activity from non-Google apps and websites."
+        }
+      },
+      "versions": [
+        {
+          "version": "20.15.1",
+          "date": "2025-04-25",
+          "localizedDescription": "• Updated YouTube to v20.15.1\n • YTLitePlus is using 5.0.1\n • iOS/iPadOS 15.0 or later required\n\nFeatures included:\n • YTLite core features\n • YTUHD for higher resolutions\n • YouPiP for Picture-in-Picture\n • YTABConfig for A/B settings\n • YouMute for audio control\n • DontEatMyContent for notch/Dynamic Island\n • Return YouTube Dislikes\n • iSponsorBlock for skipping sponsors\n • YouRememberCaption for captions\n • YTNoTracking for privacy\n • YTUnShorts for better Shorts experience\n • YTNoCheckLocalNetwork\n • BigYTMiniPlayer\n • YTSpeed and YTHoldForSpeed\n • YTVideoOverlay\n • YouQuality for quality control\n • YTNoModernUI\n • OLEDDarkmode and OLDDarkmode\n • LowContrastMode\n • YTNoSuggestedVideo\n\nCredits to all contributors and developers",
+          "downloadURL": "https://github.com/alextay-ideagen/YTLite/releases/download/untagged-31685729bf85db5c5f49/YouTubePlus_5.2b1.ipa",
+          "size": 114700477
         },
-      "subtitle": "The best tweak for the YouTube app just got even better",
-      "tintColor": "e81e8a",
-      "version": "20.02.3",
-      "versionDate": "2024-05-28",
-      "versionDescription": "• Updated YouTube to v19.21.2\n • uYou is using 3.0.4\n • uYouEnhanced Localization Support\n • Dropped iOS 14 Support (From: Google/YouTube v19.21.2 release)\n • New Options: Disable Animated YouTube Logo, Shorts Quality Picker, New Settings UI & Auto-Hide Home Bar bhackel\n • Limited Options to iPhone-only: Enable Portrait Fullscreen & Hide Fullscreen Action Buttons - bhackel\n • Added a new button (uYouEnhanced Settings): Copy Settings\n • New Tweak: YouTimeStamp\n • Fixed AdBlock not working in Videos for AdBlock Workaround (Lite) - PoomSmart/YouTube-X\n • Updated Submodules"
+        {
+          "version": "20.02.3",
+          "date": "2024-08-14",
+          "localizedDescription": "YTLitePlus v20.02.3 (2024-08-14)\n\nCurrent YouTube IPA: \"20.02.3\"\nCurrent YTLite Version: \"4.0.1\"\nCompatibility: iOS/iPadOS 15.0 or later\n\nNew Features:\n\u2022 YouTimeStamp - Copy video URL with timestamp\n\u2022 Copy/Paste Settings - Share your settings easily\n\u2022 Reporting Option - Enhanced user feedback\n\u2022 Live Chat OLED Dark Mode - Better dark mode for live chats\n\u2022 Hide Speed Toast - Cleaner UI\n\nBug Fixes:\n\u2022 Fixed building on iOS 14\n\u2022 Fixed dylib injection issues\n\u2022 Fixed YouTube Extensions\n\u2022 Fixed delete workflows\n\u2022 Fixed localization and copy/paste switch\n\u2022 Fixed LowContrastMode description\n\u2022 Fixed build errors\n\u2022 Fixed OLED live chat\n\nImprovements:\n\u2022 Cleaned up Makefile and actions script\n\u2022 Default disabled big mini player\n\u2022 Hide comment previews\n\u2022 Hide autoplay mini preview\n\u2022 Removed YTLitePlus OLED Theme\n\u2022 Added Hide HUD and Hide Collapse Button\n\nLocalization Updates:\n\u2022 Turkish localization\n\u2022 Bulgarian translations\n\u2022 Portuguese updates\n\u2022 Added missing strings\n\u2022 Updated Localizable.strings\n\nKnown Issues:\n\u2022 LowContrastMode not working (Compatible only with YouTube v17.33.2-v17.38.10)\n\u2022 YouTube crashing when viewing Shorts\n\nCredits to all contributors and developers for their amazing work.",
+          "downloadURL": "https://github.com/SavageFRVR/YTLite/releases/download/v20.02.3-5.1/v20.02.3-YouTubePlus_5.1_Tweaks.ipa",
+          "size": 119089184
+        }
+      ]
     }
   ],
-  "identifier": "com.uyouplusextra.source",
-  "name": "uYouPlusExtra Source",
-  "sourceURL": "https://raw.githubusercontent.com/alextay-ideagen/alextay-ideagen.github.io/main/apps.json",
-  "website": "https://github.com/alextay-ideagen/uYouPlus",
-  "news": [],
+  "news": [
+    {
+      "appID": "com.google.ios.youtube",
+      "caption": "Update of YTLitePlus just got released!",
+      "date": "2025-04-25",
+      "identifier": "release-20.15.1-5.0.1",
+      "imageURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/screenshots/news/new_release.png",
+      "notify": true,
+      "tintColor": "e22a41",
+      "title": "20.15.1-5.0.1 - YTLitePlus 25/04/25",
+      "url": "https://github.com/alextay-ideagen/YTLite/releases/tag/v20.15.1-5.0.1"
+    },
+    {
+      "appID": "com.google.ios.youtube",
+      "caption": "Update of YTLitePlus just got released!",
+      "date": "2024-08-14",
+      "identifier": "release-20.02.3-4.0.1",
+      "imageURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/screenshots/news/new_release.png",
+      "notify": true,
+      "tintColor": "e22a41",
+      "title": "20.02.3-4.0.1 - YTLitePlus 14/08/24",
+      "url": "https://github.com/alextay-ideagen/YTLite/releases/tag/v20.02.3-4.0.1"
+    }
+  ],
   "userInfo": {}
 }
